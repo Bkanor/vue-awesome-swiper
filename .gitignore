@@ -16,6 +16,7 @@ npm-debug.log*
 
 # Project
 .editorconfig
+.idea
 
 # nyc test coverage
 .nyc_output
